@@ -1,0 +1,11 @@
+/* style.css */
+img {
+  border-radius: 75px;
+}
+h2{font-size: 18px;}
+
+body {
+  background-color: rgb(23, 156, 90);
+  color: white;
+  font-family: "Trebuchet MS";
+}
